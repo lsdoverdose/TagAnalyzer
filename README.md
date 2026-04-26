@@ -1,6 +1,6 @@
 # TagAnalyzer
-A social engineering tool that analyzes a user's preferences through their Pixiv Like/Bookmarks.
-一种通过 Pixiv 收藏来分析目标喜好的社会工程学工具。
+A social engineering tool that analyzes a user's preferences through their Pixiv **Open** Like/Bookmarks.
+一种通过 Pixiv **公开的**收藏来分析目标喜好的社会工程学工具。
 
 >[!WARNING]
 > 🚧 Under Construction...
